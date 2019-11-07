@@ -1,4 +1,4 @@
-<p align="center"><img alt="刘欣的代码笔记" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="刘欣的代码笔记" src="https://img.hacpai.com/file/2019/11/Java1-0fb0f83d.png"></p><h2 align="center">
 刘欣的代码笔记
 </h2>
 
@@ -10,7 +10,8 @@
 
 ### 最新
 
-* [世界，你好！](https://www.liuxincode.cn/hello-solo)
+* [通过Javascript为文章的复制添加版权信息](https://www.liuxincode.cn/articles/2019/11/07/1573056661091.html)
+* [Docker下操作应用，设置Mysql的外网也可访问的权限。](https://www.liuxincode.cn/articles/2019/11/06/1573036954887.html)
 
 
 
