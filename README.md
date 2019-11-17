@@ -3,8 +3,6 @@
 </h2>
 
 <h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="刘欣的代码笔记" target="_blank" href="https://github.com/141Mr-liu/solo-blog"><img src="https://img.shields.io/github/last-commit/141Mr-liu/solo-blog.svg?style=flat-square&color=FF9900"></a>
-<a title="GitHub repo size in bytes" target="_blank" href="https://github.com/141Mr-liu/solo-blog"><img src="https://img.shields.io/github/repo-size/141Mr-liu/solo-blog.svg?style=flat-square"></a>
 
 ### 最新
 
