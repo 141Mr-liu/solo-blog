@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [【大数据从入门到放弃】目录 ](https://www.liuxincode.cn/articles/2019/11/19/1574154268859.html)
 * [某培训机构的就业班视频](https://www.liuxincode.cn/articles/2019/11/18/1574055740182.html)
 * [【Docker】1、Docker从安装到卸载--Dcoker的基本命令](https://www.liuxincode.cn/articles/2019/11/10/1573393755217.html)
 * [【面向监狱编程】反编译任何微信小程序，以及独立分包、插件的处理方式](https://www.liuxincode.cn/articles/2019/11/08/1573213884359.html)
