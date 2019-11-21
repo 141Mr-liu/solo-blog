@@ -10,8 +10,9 @@
 
 ### 最新
 
-* [【大数据从入门到放弃】3.2、Mapper类编程详解](https://www.liuxincode.cn/articles/2019/11/19/1574173947739.html)
-* [【大数据从入门到放弃】3.1、MapReduce编程前准备](https://www.liuxincode.cn/articles/2019/11/19/1574167680477.html)
+* [【大数据从入门到放弃】4.3、Reducer编程详解](https://www.liuxincode.cn/articles/2019/11/20/1574256501308.html)
+* [【大数据从入门到放弃】4.2、Mapper类编程详解](https://www.liuxincode.cn/articles/2019/11/19/1574173947739.html)
+* [【大数据从入门到放弃】4.1、MapReduce编程前准备](https://www.liuxincode.cn/articles/2019/11/19/1574167680477.html)
 * [【大数据从入门到放弃】1、Hadoop集群环境搭建（上）](https://www.liuxincode.cn/articles/2019/11/19/1574165408089.html)
 * [【大数据从入门到放弃】目录 ](https://www.liuxincode.cn/articles/2019/11/19/1574154268859.html)
 * [某培训机构的就业班视频](https://www.liuxincode.cn/articles/2019/11/18/1574055740182.html)
